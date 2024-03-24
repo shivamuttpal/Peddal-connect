@@ -35,3 +35,9 @@ loom video link - https://www.loom.com/share/753b1eccc375460983fb9ae369e98685?si
 
 ## project image 
 <img width="900" height="400" alt="image" src="https://github.com/shivamuttpal/Peddal-connect/blob/main/Images/p1.png">
+<img width="900" height="400" alt="image" src="https://github.com/shivamuttpal/Peddal-connect/blob/main/Images/p2.png">
+<img width="900" height="400" alt="image" src="https://github.com/shivamuttpal/Peddal-connect/blob/main/Images/p3.png">
+<img width="900" height="400" alt="image" src="https://github.com/shivamuttpal/Peddal-connect/blob/main/Images/p4.png">
+<img width="900" height="400" alt="image" src="https://github.com/shivamuttpal/Peddal-connect/blob/main/Images/p5.png">
+<img width="900" height="400" alt="image" src="https://github.com/shivamuttpal/Peddal-connect/blob/main/Images/p6.png">
+<img width="900" height="400" alt="image" src="https://github.com/shivamuttpal/Peddal-connect/blob/main/Images/p7.png">
